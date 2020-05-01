@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "foundation-sites": "^6.5.0-rc.3",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "motion-ui": "^2.0.3",
     "prop-types": "^15.6.0",
     "react": "^16.0.0",
