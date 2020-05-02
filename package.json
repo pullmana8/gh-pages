@@ -21,7 +21,7 @@
     "react": "^16.0.0",
     "react-dom": "^16.0.0",
     "react-foundation": "^0.9.6",
-    "react-interactive": "^0.8.1",
+    "react-interactive": "^0.9.1",
     "react-router-dom": "^4.2.2",
     "what-input": "^5.1.2"
   },
